@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Musifly</string>
+    <string name="title">MusiFly</string>
+    <string name="addNewSong">Add New Song</string>
+    <string name="createNewPlaylist">New Playlist</string>
+    <string name="searchButtom">Search</string>
+    <string name="insertSongTitle">Song Title</string>
+    <string name="genres">Genres</string>
+    <string name="insertSinger">Artist</string>
+    <string name="insertReview">Review</string>
+    <string name="duration">Duration</string>
+    <string name="link_song">Link</string>
+    <string name="saveButton">Save</string>
+    <string name="addNewPlaylist">New Playlist</string>
+    <string name="insertPlaylistTitle">Playlist Title</string>
+    <string name="choosePhoto">Choose Photo...</string>
+    <string name="File">File...</string>
+    <string name="searchTitle">Search</string>
+    <string name="searchForSongText">Type Song Title or Artist</string>
+    <string name="searchButton">Search</string>
+    <string-array name="ratings">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="genre_spinner">
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>Alternative</item>
+        <item>Metal</item>
+        <item>K-Pop</item>
+        <item>Jazz</item>
+        <item>Hip-Hop</item>
+        <item>Trap</item>
+        <item>Opera</item>
+        <item>Rap</item>
+        <item>Ballad</item>
+        <item>Other...</item>
+
+    </string-array>
+
+</resources>
